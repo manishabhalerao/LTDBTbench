@@ -1,0 +1,12 @@
+f:\Projects\LTDBManagement\LTDBManagement\bin\Debug\LTDBManagement.exe.config
+f:\Projects\LTDBManagement\LTDBManagement\bin\Debug\LTDBManagement.exe
+f:\Projects\LTDBManagement\LTDBManagement\bin\Debug\LTDBManagement.pdb
+f:\Projects\LTDBManagement\LTDBManagement\obj\Debug\LTDBManagement.csprojResolveAssemblyReference.cache
+f:\Projects\LTDBManagement\LTDBManagement\obj\Debug\LTDBManagement.Master.resources
+f:\Projects\LTDBManagement\LTDBManagement\obj\Debug\LTDBManagement.Properties.Resources.resources
+f:\Projects\LTDBManagement\LTDBManagement\obj\Debug\LTDBManagement.csproj.GenerateResource.Cache
+f:\Projects\LTDBManagement\LTDBManagement\obj\Debug\LTDBManagement.exe
+f:\Projects\LTDBManagement\LTDBManagement\obj\Debug\LTDBManagement.pdb
+f:\Projects\LTDBManagement\LTDBManagement\obj\Debug\LTDBManagement.TBLogDetails.resources
+f:\Projects\LTDBManagement\LTDBManagement\obj\Debug\LTDBManagement.TBResultDetails.resources
+f:\Projects\LTDBManagement\LTDBManagement\obj\Debug\LTDBManagement.TestBenchDetails.resources
